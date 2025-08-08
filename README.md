@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Utsav Kumar Choudhary</h1>
-<h3 align="left">A passionatAspiring Computer Science Engineering student with a strong foundation in Application development and brushing up on my knowledge of data structures and algorithm. Recently certified in CSA and CAD from ServiceNow, enhancing my skills in platform administration and custom app development. I am eager to explore and lee frontend developer from India</h3>
+<h3 style="text-align: justify; text-justify: inter-word;">
+  A passionate aspiring Computer Science Engineering student with a strong foundation in application development and brushing up on my knowledge of data structures and algorithms. Recently certified in CSA and CAD from ServiceNow, enhancing my skills in platform administration and custom app development. I am eager to explore and learn as a frontend developer from India.
+</h3>
+
 
 - 👨‍💻 All of my projects are available at [github.com/choudharyutsav2](https://github.com/choudharyutsav2)
 
