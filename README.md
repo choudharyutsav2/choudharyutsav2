@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Utsav Kumar Choudhary</h1>
 <h3 align="center">A passionatAspiring Computer Science Engineering student with a strong foundation in Application development and brushing up on my knowledge of data structures and algorithm. Recently certified in CSA and CAD from ServiceNow, enhancing my skills in platform administration and custom app development. I am eager to explore and lee frontend developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/choudharyutsav2](https://github.com/choudharyutsav2)
+- 👨‍💻 All of my projects are available at [github.com/choudharyutsav2](https://github.com/choudharyutsav2)
 
 - 📫 How to reach me **choudharyutsav2@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1DyoZmL2wD2Ncg3Rw3RwKK6Z6WjygiQzI/view?usp=sharing](https://drive.google.com/file/d/1R7DHcuC8S_Ho6igg9P0pGugUGHsbAI5C/view?usp=sharing)
+- 📄 [My Resume](https://drive.google.com/file/d/1R7DHcuC8S_Ho6igg9P0pGugUGHsbAI5C/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
