@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **choudharyutsav2@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1DyoZmL2wD2Ncg3Rw3RwKK6Z6WjygiQzI/view?usp=sharing](https://drive.google.com/file/d/1DyoZmL2wD2Ncg3Rw3RwKK6Z6WjygiQzI/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1DyoZmL2wD2Ncg3Rw3RwKK6Z6WjygiQzI/view?usp=sharing](https://drive.google.com/file/d/1R7DHcuC8S_Ho6igg9P0pGugUGHsbAI5C/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
