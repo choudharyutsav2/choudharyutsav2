@@ -1,4 +1,4 @@
-<div style="background: linear-gradient(135deg, #1e3c72, #2a5298); padding: 20px; border-radius: 10px; color: white;">
+<div style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 20px; border-radius: 10px; color: white;">
 
 <h1 align="center">Hi 👋, I'm Utsav Kumar Choudhary</h1>
 
