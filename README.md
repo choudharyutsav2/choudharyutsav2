@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Hi%20👋,%20I'm%20Utsav%20Kumar%20Choudhary&width=800&height=200&colorA=ff7e5f&colorB=feb47b" />
-</p>
+<div style="background: linear-gradient(135deg, #ff7e5f, #feb47b); padding: 20px; border-radius: 10px; color: white;">
+
+<h1 align="center">Hi 👋, I'm Utsav Kumar Choudhary</h1>
 
 <h3 style="text-align: justify; text-justify: inter-word;">
   A passionate aspiring Computer Science Engineering student with a strong foundation in application development and brushing up on my knowledge of data structures and algorithms. Recently certified in CSA and CAD from ServiceNow, enhancing my skills in platform administration and custom app development. I am eager to explore and learn as a frontend developer from India.
@@ -36,3 +36,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=choudharyutsav2&show_icons=true&locale=en&layout=compact" /></p>
+
+</div>
+
