@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **choudharyutsav2@gmail.com**  
 
-- 📄 [My Resume](https://drive.google.com/file/d/1R7DHcuC8S_Ho6igg9P0pGugUGHsbAI5C/view?usp=sharing)  
+- 📄 [My Resume]((https://drive.google.com/file/d/1LEP8JR26N579n6Ol0bpw9MAaXo0PyfhL/view?usp=sharing))  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
